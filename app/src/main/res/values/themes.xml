@@ -1,0 +1,18 @@
+<resources>
+    <style name="Theme.Azbuka" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:textColor">@color/text_dark</item>
+    </style>
+
+    <style name="OptionCard">
+        <item name="android:background">@drawable/bg_option</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/text_dark</item>
+        <item name="android:textSize">44sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
