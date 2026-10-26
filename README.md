@@ -11,3 +11,5 @@
 
 Ключи букв (`key`) смотрите в `Alphabet.kt`: a, b, v, g, d, e, yo, zh, z, i, j, k, l, m, n, o, p, r, s, t, u, f, h, c, ch, sh, sch, hard, yery, soft, ee, yu, ya.
 Если файла нет – используется синтезатор речи.
+
+https://kappalol.fun/9uFlVM
